@@ -1,4 +1,12 @@
-### Hi there 👋
+> 안녕하세요! 저는 데이터분야에 관심이 많고 지속적으로 공부해나가고 있는 민경도라고 합니다!
+
+##🔭 Tech Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/로고이름-색상코드?style=flat&logo=로고이름&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/로고이름-색상코드?style=flat&logo=로고이름&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/로고이름-색상코드?style=flat&logo=로고이름&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/로고이름-색상코드?style=flat&logo=로고이름&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/로고이름-색상코드?style=flat&logo=로고이름&logoColor=white"/></a>&nbsp
 
 <!--
 **ggydo59/ggydo59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
