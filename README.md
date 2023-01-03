@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=Metabase&logoColor=white"/></a>
+## 🌱 Github stat
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggydo59&show_icons=true&theme=radical)
 
